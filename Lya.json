@@ -1,0 +1,58 @@
+{
+    "Lya": {
+      "title": "Boostez votre impact digital grâce au community management",
+      "description": "Créez une communauté en ligne engagée et développez votre visibilité au Sénégal et ailleurs.",
+      "cta": "Contactez-nous"
+    },
+    "services": [
+      {
+        "title": "Gestion des Réseaux Sociaux",
+        "description": "Nous gérons vos comptes sur les plateformes sociales pour maximiser votre audience et renforcer votre image de marque."
+      },
+      {
+        "title": "Création de Contenus",
+        "description": "Du contenu attractif et engageant pour captiver et fidéliser votre audience."
+      },
+      {
+        "title": "Analyse et Reporting",
+        "description": "Des données précises pour mesurer l'efficacité de votre présence en ligne et ajuster votre stratégie."
+      }
+    ],
+    "about": {
+      "title": "À Propos de Nous",
+      "description": "Chez Impact Digital, nous croyons en la puissance des communautés en ligne pour transformer votre présence digitale. Basés au Sénégal, nous accompagnons les entreprises et les entrepreneurs dans leur quête de visibilité et d'engagement."
+    },
+    "testimonials": [
+      {
+        "quote": "Grâce à Impact Digital, notre communauté en ligne a doublé en trois mois. Leur expertise est inégalée !",
+        "author": "Participants, En attente"
+      },
+      {
+        "quote": "Un service professionnel et des résultats impressionnants. Je recommande vivement !",
+        "author": "Aly Diop Sao, Responsable du contenu"
+      }
+    ],
+    "contact": {
+      "title": "Contactez-Nous",
+      "formFields": [
+        {
+          "label": "Nom",
+          "type": "text",
+          "id": "name",
+          "required": true
+        },
+        {
+          "label": "Email",
+          "type": "email",
+          "id": "email",
+          "required": true
+        },
+        {
+          "label": "Message",
+          "type": "textarea",
+          "id": "message",
+          "required": true
+        }
+      ]
+    }
+  }
